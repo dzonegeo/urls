@@ -1,0 +1,85 @@
+
+Shell scripting       https://www.javatpoint.com/linux-home-directory  
+Tritree technologies    all tutorials      https://www.youtube.com/hashtag/trietreetechnologies 
+Linux Tutorial      https://www.javatpoint.com/linux-tutorial 
+
+https://wiki.gcube-system.org/gcube/GitHub/Jenkins:_Setting_up_Webhooks               webhooks 
+https://www.jenkins.io/doc/book/pipeline/syntax/        Jenkins pipeline samples
+https://www.youtube.com/watch?v=Ozna0MS5D1E     pipeline for build and deploy   part 2
+https://www.youtube.com/watch?v=1ji_9scA2C4              pipeline for build and deploy 
+Hindi  difference scripted and declarativs 
+https://www.youtube.com/watch?v=yl3a4jnf0jA    
+
+Sample pipeline groovy scripts    documentation 
+https://www.jenkins.io/doc/pipeline/examples/ 
+Pipeline concepts    : 
+https://www.youtube.com/watch?v=Ei_Nk14vruE 
+
+
+https://www.educative.io/blog/linux-command-line-tutorial?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=blog-dynamic&utm_term=&utm_campaign=Dynamic+-+Blog&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=8090938743&hsa_grp=82569843726&hsa_ad=396819070286&hsa_src=g&hsa_tgt=dsa-837938538428&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIk9ewyODL8gIVkiQrCh0kIwNrEAAYASAAEgIHYPD_BwE
+  https://www.geeksforgeeks.org/what-is-linux-system-administration/                                                                          Linux duties 
+https://www.youtube.com/watch?v=-N09WSCNcso  
+yum local repo configuration  .
+
+https://runnable.com/docker/install-docker-on-linux                                     docker setup on multiple unix plar forms 
+
+https://www.youtube.com/watch?v=hExRDVZHhig                 SSL TLS HTTP HTTPS
+https://www.youtube.com/watch?v=eWdPWSBKxso                SSL TLS HTTP HTTPS
+
+
+
+ 
+
+
+
+https://wiki.jenkins.io/display/JENKINS/Step+by+step+guide+to+set+up+master+and+agent+machines+on+Windows             master slave concept 
+
+https://scmquest.com/jenkins-installation-and-configuration-on-redhat-distributions-with-screenshots/.                                      Jenkins setup  through yum repo
+
+https://www.jenkins.io/doc/book/installing/war-file/        through download war file and install manually .
+
+https://www.youtube.com/watch?v=jmm8DsosBqw          video linux setup 
+
+https://www.youtube.com/watch?v=nuby4eIrJYk              aws linux Jenkins   security group trouble shooting .
+
+
+
+https://www.youtube.com/watch?v=FX322RVNGj4     jenkins
+
+https://www.youtube.com/watch?v=MayMkFCkzj4      jenkins pipe line 
+
+
+https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkRHEL.html         jDk  8 on rhel linux 
+
+
+
+https://computingforgeeks.com/install-apache-tomcat-9-on-linux-rhel-centos/.            Tomcat instattloin setup 
+
+https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/.            Scp copying 
+
+https://tecadmin.net/install-mysql-on-centos-redhat-and-fedora/                                    MY SQL installation and root pass setup
+
+https://askubuntu.com/questions/766334/cant-login-as-mysql-user-root-from-normal-user-account-in-ubuntu-16-04                  root user remove and add from mysql 
+
+https://tecadmin.net/remove-mysql-completely-from-linux-system/                   mysql un installation 
+
+http://support.ricoh.com/bb_v1oi/pub_e/oi_view/0001055/0001055079/view/netsys/int/0062.htm                 add ip and host name on windows machine.    \WINDOWS\SYSTEM32\DRIVERS\ETC\HOSTS
+
+https://devopscube.com/jenkins-backup-data-configurations/.        Jenkins backup
+https://webhostinggeeks.com/howto/how-to-enable-and-grant-remote-access-to-mysql-database-server/
+
+mysql > SET GLOBAL time_zone = '+3:00'; (no restart required)            my sql  connection failed while installing foundry. Need to run this commands 
+sudo ./<buildnme>
+
+
+
+https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/.    
+
+Aws linux java environmental variables :
+
+https://www.youtube.com/watch?v=c_nF2RnyfDU 
+
+
+https://novicestuffs.wordpress.com/2017/04/25/how-to-uninstall-java-from-linux/
+
+un install jdk from linux 
