@@ -83,3 +83,7 @@ https://www.youtube.com/watch?v=c_nF2RnyfDU
 https://novicestuffs.wordpress.com/2017/04/25/how-to-uninstall-java-from-linux/
 
 un install jdk from linux 
+
+
+
+teraform
